@@ -1,0 +1,116 @@
+{
+  "cacheItemsMap": {
+    "index.md": {
+      "document": {
+        "title": "KD Coaching",
+        "description": "Grow your skills as a performer through professional, one-on-one training.",
+        "bookingLink": "https://cal.com/kd-coaching",
+        "body": {
+          "raw": "\nWhile training students at high and challenging levels in acting and singing, I also love teaching them and helping them navigate the business side of the industry. It's very hard to succeed if you don't understand how to promote yourself as a performer and make connections with people that will last. These are just some of the tools we need as actors to make our way \"up\" in this world.\n\nI teach actors how to handle rejection, comparison, and being told NO over and over again. I help them create websites, social media handles, and other tools that will help get them cast. I teach them how to work hard and stay humble. I believe that every NO is one step closer to a YES. My hope is that they leave sessions with me believing in themselves, knowing that they can make a difference through their craft, and growing in their skills as a performer\n",
+          "html": "<p>While training students at high and challenging levels in acting and singing, I also love teaching them and helping them navigate the business side of the industry. It's very hard to succeed if you don't understand how to promote yourself as a performer and make connections with people that will last. These are just some of the tools we need as actors to make our way \"up\" in this world.</p>\n<p>I teach actors how to handle rejection, comparison, and being told NO over and over again. I help them create websites, social media handles, and other tools that will help get them cast. I teach them how to work hard and stay humble. I believe that every NO is one step closer to a YES. My hope is that they leave sessions with me believing in themselves, knowing that they can make a difference through their craft, and growing in their skills as a performer</p>"
+        },
+        "_id": "index.md",
+        "_raw": {
+          "sourceFilePath": "index.md",
+          "sourceFileName": "index.md",
+          "sourceFileDir": ".",
+          "contentType": "markdown",
+          "flattenedPath": ""
+        },
+        "type": "Index",
+        "slug": "/",
+        "slugAsParams": ""
+      },
+      "documentHash": "1680486787831",
+      "hasWarnings": false,
+      "documentTypeName": "Index"
+    },
+    "reviews.md": {
+      "document": {
+        "title": "Reviews",
+        "description": "What past students have said about KD Studios.",
+        "reviews": [
+          {
+            "copy": "The teachers at KD are so focused on each individual student and helping them grow from whatever place they’re in. They’re so kind and welcoming to new students and it’s a very safe atmosphere.",
+            "source": "Norah DeMello",
+            "type": "Review",
+            "_raw": {}
+          },
+          {
+            "copy": "KD Studios has been an amazing hands on experience in a professional environment, working with teachers who value you and want to see you excel in what you love to do.",
+            "source": "Bethany Grant",
+            "type": "Review",
+            "_raw": {}
+          },
+          {
+            "copy": "I loved working with Kelly! I’ve grown so much in my acting, singing and dancing skills. I’ve landed fun acting jobs, and I even got an agent! I wouldn’t have been able to do it without the studio helping to guide me the whole way. Thanks to the studio, I've taken master classes from industry professionals that have really pushed me to do my best. KD coaching has really become my second home and has helped me to make great connections with my fellow actors that will help me to be more successful down the road.",
+            "source": "Macy MacDiarmid",
+            "type": "Review",
+            "_raw": {}
+          },
+          {
+            "copy": "I had the greatest experience working with Kelly. I was taught so much about the entertainment industry through classes in acting, singing, and various styles of dance. I was able to really dissect and perfect my skills here and had several opportunities available to me.  Kelly truly cares about creating an inclusive environment in which students feel safe to fail, create, and grow. I’m so grateful for the time I spent here.",
+            "source": "Jason Johnson",
+            "type": "Review",
+            "_raw": {}
+          },
+          {
+            "copy": "Working with KD coaching felt like joining a family. I learned a lot that helped with my technique in acting, and enjoyed every minute! My experience there has helped me grow, both in acting and in life. Kelly is an amazing teacher, who connects with her students and is able to give guidance. She doesn’t only focus on training and technique, but also mental health and how her student is really feeling. I have always felt very comfortable and safe with Kelly, and I have always had great discussions with her.",
+            "source": "Ariana Goulette",
+            "type": "Review",
+            "_raw": {}
+          },
+          {
+            "copy": "I loved the professionalism that was implemented into my classes and the environment that was created.  It is always very supporting, but also showed me the importance of hard work and dedication to the craft; something that has personally helped me greatly moving forward. I definitely felt more prepared to tackle the professional world after being a student at KD Coaching. ",
+            "source": "Tessa Camilla",
+            "type": "Review",
+            "_raw": {}
+          }
+        ],
+        "body": {
+          "raw": "",
+          "html": ""
+        },
+        "_id": "reviews.md",
+        "_raw": {
+          "sourceFilePath": "reviews.md",
+          "sourceFileName": "reviews.md",
+          "sourceFileDir": ".",
+          "contentType": "markdown",
+          "flattenedPath": "reviews"
+        },
+        "type": "Reviews",
+        "slug": "/reviews",
+        "slugAsParams": ""
+      },
+      "documentHash": "1680488048566",
+      "hasWarnings": false,
+      "documentTypeName": "Reviews"
+    },
+    "about.md": {
+      "document": {
+        "title": "About",
+        "description": "Learn about Kelly Dunn.",
+        "bookingLink": "https://cal.com/kd-coaching",
+        "body": {
+          "raw": "\nKelly Ann Dunn is the proud owner of KD Coaching, a branch of her main business, KD Studios. She grew up in the Sacramento area, performing at theatres locally and singing professionally in Los Angeles aboard ships and at hotels. She studied musical theatre at Point Park University and eventually transferred to William Jessup University where she earned her B.A degree in Creative Arts-Theatre. At Jessup, she learned about the importance of storytelling and making an impact through acting which inspired her to go live out her dreams for a time in NYC.\n\nAfter living in NYC, she moved back to CA to open the studio to pursue her passions of performing, teaching, and mentoring student’s through life. She can be seen in films on NETFLIX and AMAZON PRIME as well as around the country performing at regional theatres. Some of her favorite credits include ROSAMUND in THE ROBBER BRIDEGROOM, GLORIA in Boeing Boeing, June in MUSICALS OF MUSICALS, and Jan in GREASE. She was also seen in HBO’S SHARP OBJECTS as a featured actor (“Ashley’s Girl”) and has appeared in some McDonalds, Intel, and Burger King commercials and ads as well as claiming her fame in Japan by appearing on their popular TV show WORLD’S ASTONISHING NEWS. She can also be seen behind the scenes producing, casting, and directing for local theatres and projects in Sacramento and the east coast. She hopes to instill confidence into all of her students and to help them grow into people who believe in themselves, love others, and fiercely pursue their dreams.\n",
+          "html": "<p>Kelly Ann Dunn is the proud owner of KD Coaching, a branch of her main business, KD Studios. She grew up in the Sacramento area, performing at theatres locally and singing professionally in Los Angeles aboard ships and at hotels. She studied musical theatre at Point Park University and eventually transferred to William Jessup University where she earned her B.A degree in Creative Arts-Theatre. At Jessup, she learned about the importance of storytelling and making an impact through acting which inspired her to go live out her dreams for a time in NYC.</p>\n<p>After living in NYC, she moved back to CA to open the studio to pursue her passions of performing, teaching, and mentoring student’s through life. She can be seen in films on NETFLIX and AMAZON PRIME as well as around the country performing at regional theatres. Some of her favorite credits include ROSAMUND in THE ROBBER BRIDEGROOM, GLORIA in Boeing Boeing, June in MUSICALS OF MUSICALS, and Jan in GREASE. She was also seen in HBO’S SHARP OBJECTS as a featured actor (“Ashley’s Girl”) and has appeared in some McDonalds, Intel, and Burger King commercials and ads as well as claiming her fame in Japan by appearing on their popular TV show WORLD’S ASTONISHING NEWS. She can also be seen behind the scenes producing, casting, and directing for local theatres and projects in Sacramento and the east coast. She hopes to instill confidence into all of her students and to help them grow into people who believe in themselves, love others, and fiercely pursue their dreams.</p>"
+        },
+        "_id": "about.md",
+        "_raw": {
+          "sourceFilePath": "about.md",
+          "sourceFileName": "about.md",
+          "sourceFileDir": ".",
+          "contentType": "markdown",
+          "flattenedPath": "about"
+        },
+        "type": "About",
+        "slug": "/about",
+        "slugAsParams": ""
+      },
+      "documentHash": "1680487830838",
+      "hasWarnings": false,
+      "documentTypeName": "About"
+    }
+  }
+}

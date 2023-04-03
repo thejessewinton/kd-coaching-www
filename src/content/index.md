@@ -1,0 +1,9 @@
+---
+title: "KD Coaching"
+description: "Grow your skills as a performer through professional, one-on-one training."
+bookingLink: "https://cal.com/kd-coaching"
+---
+
+While training students at high and challenging levels in acting and singing, I also love teaching them and helping them navigate the business side of the industry. It's very hard to succeed if you don't understand how to promote yourself as a performer and make connections with people that will last. These are just some of the tools we need as actors to make our way "up" in this world.
+
+I teach actors how to handle rejection, comparison, and being told NO over and over again. I help them create websites, social media handles, and other tools that will help get them cast. I teach them how to work hard and stay humble. I believe that every NO is one step closer to a YES. My hope is that they leave sessions with me believing in themselves, knowing that they can make a difference through their craft, and growing in their skills as a performer

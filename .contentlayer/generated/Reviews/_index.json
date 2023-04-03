@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Reviews",
+    "description": "What past students have said about KD Studios.",
+    "reviews": [
+      {
+        "copy": "The teachers at KD are so focused on each individual student and helping them grow from whatever place they’re in. They’re so kind and welcoming to new students and it’s a very safe atmosphere.",
+        "source": "Norah DeMello",
+        "type": "Review",
+        "_raw": {}
+      },
+      {
+        "copy": "KD Studios has been an amazing hands on experience in a professional environment, working with teachers who value you and want to see you excel in what you love to do.",
+        "source": "Bethany Grant",
+        "type": "Review",
+        "_raw": {}
+      },
+      {
+        "copy": "I loved working with Kelly! I’ve grown so much in my acting, singing and dancing skills. I’ve landed fun acting jobs, and I even got an agent! I wouldn’t have been able to do it without the studio helping to guide me the whole way. Thanks to the studio, I've taken master classes from industry professionals that have really pushed me to do my best. KD coaching has really become my second home and has helped me to make great connections with my fellow actors that will help me to be more successful down the road.",
+        "source": "Macy MacDiarmid",
+        "type": "Review",
+        "_raw": {}
+      },
+      {
+        "copy": "I had the greatest experience working with Kelly. I was taught so much about the entertainment industry through classes in acting, singing, and various styles of dance. I was able to really dissect and perfect my skills here and had several opportunities available to me.  Kelly truly cares about creating an inclusive environment in which students feel safe to fail, create, and grow. I’m so grateful for the time I spent here.",
+        "source": "Jason Johnson",
+        "type": "Review",
+        "_raw": {}
+      },
+      {
+        "copy": "Working with KD coaching felt like joining a family. I learned a lot that helped with my technique in acting, and enjoyed every minute! My experience there has helped me grow, both in acting and in life. Kelly is an amazing teacher, who connects with her students and is able to give guidance. She doesn’t only focus on training and technique, but also mental health and how her student is really feeling. I have always felt very comfortable and safe with Kelly, and I have always had great discussions with her.",
+        "source": "Ariana Goulette",
+        "type": "Review",
+        "_raw": {}
+      },
+      {
+        "copy": "I loved the professionalism that was implemented into my classes and the environment that was created.  It is always very supporting, but also showed me the importance of hard work and dedication to the craft; something that has personally helped me greatly moving forward. I definitely felt more prepared to tackle the professional world after being a student at KD Coaching. ",
+        "source": "Tessa Camilla",
+        "type": "Review",
+        "_raw": {}
+      }
+    ],
+    "body": {
+      "raw": "",
+      "html": ""
+    },
+    "_id": "reviews.md",
+    "_raw": {
+      "sourceFilePath": "reviews.md",
+      "sourceFileName": "reviews.md",
+      "sourceFileDir": ".",
+      "contentType": "markdown",
+      "flattenedPath": "reviews"
+    },
+    "type": "Reviews",
+    "slug": "/reviews",
+    "slugAsParams": ""
+  }
+]
