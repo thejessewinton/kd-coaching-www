@@ -21,10 +21,12 @@ const items = [
 export const Nav = () => {
   const pathname = usePathname();
   return (
-    <div className="sticky top-0 z-10 mb-20 flex w-full items-center justify-between p-10">
-      <h1 className="font-serif">KD Coaching</h1>
+    <div className="sticky top-0 z-10 mb-20 flex w-full items-center justify-between bg-white px-10 py-4">
+      <Link href="/">
+        <h1 className="font-serif">KD Coaching</h1>
+      </Link>
 
-      <nav className="flex gap-8">
+      <nav className="flex flex-col gap-2 md:flex-row md:gap-8">
         {items.map((item) => {
           const isExternal = item.href.startsWith("https");
           return (

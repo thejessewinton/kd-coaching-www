@@ -36,7 +36,7 @@ const RootLayout = ({ children }: { children: ReactNode }) => {
       <link href="/favicon.ico" rel="shortcut icon" />
       <body className="flex min-h-screen flex-col items-center justify-center scroll-smooth leading-loose text-neutral-900 antialiased">
         <Nav />
-        <main className="mx-auto flex w-full max-w-3xl flex-grow flex-col items-center justify-center px-8">
+        <main className="relative z-0 mx-auto flex w-full max-w-3xl flex-grow flex-col items-center justify-center px-8">
           {children}
         </main>
         <Footer />
