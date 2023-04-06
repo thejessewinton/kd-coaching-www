@@ -27,7 +27,7 @@ const About = () => {
           className="w-full md:w-1/3"
         />
         <div
-          className="space-y-4 font-light"
+          className="space-y-4"
           dangerouslySetInnerHTML={{ __html: data.body.html }}
         />
       </div>

@@ -18,11 +18,11 @@ const Index = () => {
       <div className="relative z-50">
         <div className="py-20">
           <h1 className="font-serif text-4xl font-light">
-            Learn the skills you need to succeed in the performing arts.
+            Welcome to KD Coaching!
           </h1>
         </div>
         <div
-          className="space-y-4 font-light"
+          className="space-y-4"
           dangerouslySetInnerHTML={{ __html: data.body.html }}
         />
       </div>
