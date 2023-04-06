@@ -7,7 +7,7 @@ const socials = [
   },
   {
     label: "Bookings",
-    href: "https://cal.com/kd-coaching",
+    href: "https://cal.com/kdcoaching-co",
   },
 ];
 
@@ -22,7 +22,9 @@ export const Footer = () => {
             </Link>
           ))}
         </nav>
-        <span className="text-sm">{new Date().getFullYear()}</span>
+        <span className="text-sm">
+          &copy;{new Date().getFullYear()} KD Coaching
+        </span>
       </div>
     </footer>
   );

@@ -1,5 +1,7 @@
 import { type Metadata } from "next";
 import { getAbout } from "~/utils/content";
+import Image from "next/image";
+import Headshot from "../../../public/headshot.jpg";
 
 export const generateMetadata = (): Metadata => {
   const data = getAbout();
@@ -15,7 +17,12 @@ const About = () => {
 
   return (
     <div className="flex flex-col gap-2 pb-4">
-      <div className="relative z-50">
+      <div className="relative z-50 flex flex-col gap-8 md:flex-row">
+        <Image
+          src={Headshot}
+          alt="Kelly Ann Dunn"
+          className="w-full md:w-1/3"
+        />
         <div
           className="space-y-4 font-light"
           dangerouslySetInnerHTML={{ __html: data.body.html }}

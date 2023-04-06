@@ -1,7 +1,7 @@
 ---
 title: "KD Coaching"
 description: "Grow your skills as a performer through professional, one-on-one training."
-bookingLink: "https://cal.com/kd-coaching"
+bookingLink: "https://cal.com/kdcoaching-co"
 ---
 
 While training students at high and challenging levels in acting and singing, I also love teaching them and helping them navigate the business side of the industry. It's very hard to succeed if you don't understand how to promote yourself as a performer and make connections with people that will last. These are just some of the tools we need as actors to make our way "up" in this world.

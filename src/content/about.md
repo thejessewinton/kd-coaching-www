@@ -1,7 +1,7 @@
 ---
 title: "About"
 description: "Learn about Kelly Dunn."
-bookingLink: "https://cal.com/kd-coaching"
+bookingLink: "https://cal.com/kdcoaching-co"
 ---
 
 Kelly Ann Dunn is the proud owner of KD Coaching, a branch of her main business, KD Studios. She grew up in the Sacramento area, performing at theatres locally and singing professionally in Los Angeles aboard ships and at hotels. She studied musical theatre at Point Park University and eventually transferred to William Jessup University where she earned her B.A degree in Creative Arts-Theatre. At Jessup, she learned about the importance of storytelling and making an impact through acting which inspired her to go live out her dreams for a time in NYC.
