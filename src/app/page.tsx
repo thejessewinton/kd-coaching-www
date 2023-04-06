@@ -17,8 +17,8 @@ const Index = () => {
     <div className="flex flex-col gap-2 pb-4">
       <div className="relative z-50">
         <div className="py-20">
-          <h1 className="font-serif text-4xl font-light">
-            Welcome to KD Coaching!
+          <h1 className="text-center font-serif text-4xl font-light">
+            Welcome to KD Coaching
           </h1>
         </div>
         <div
